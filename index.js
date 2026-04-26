@@ -171,9 +171,9 @@ app.delete('/deleteAppointment/:id', async (req, res) => {
 
 
 
-// ------------------------------------------------------- end
+// ------------------------------------------------------- end ------------------------------------- //
 
 
 app.listen( 3001, () => {
-   console.log ( " server is running")
+   console.log ( " server is flying ")
 })
